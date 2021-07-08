@@ -4,7 +4,7 @@
     <br>
 </div>
 
-### Can here. Full-stack developer from Turkey, living in Finland (⌛)
+### Can here. Full-stack developer from Turkey, living in Finland.
 
 - 🔭 Check out my last project [React Times](https://urldev-react-times.netlify.app) and its [repo](https://github.com/urlDev/mern-react-times)!
 - ✨ You can always learn more about me and my projects in my [portfolio](https://can-ural.com)
