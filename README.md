@@ -6,7 +6,7 @@
 
 ### Can here. Software Developer from Turkey, living in Finland.
 
-- 🔭 Check out my last project [React Times](https://urldev-react-times.netlify.app) and its [repo](https://github.com/urlDev/mern-react-times)!
+- 🔭 Check out my last project [React Times](https://urldev-react-times.netlify.app) and its [repository](https://github.com/urlDev/mern-react-times)!
 - ✨ You can always learn more about me and my projects in my [portfolio](https://can-ural.com)
 <!--
 **urlDev/urlDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
